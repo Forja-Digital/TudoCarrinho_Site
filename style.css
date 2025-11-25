@@ -155,7 +155,7 @@ header {
     border-radius: 12px;
     flex: 1;
     text-align: center;
-    border: 2px solid #43DAB4;
+    border: 2px solid #047870;
 }
 
 .card img {
@@ -172,13 +172,16 @@ header {
 
 /* FOOTER */
 footer {
-    background: #43DAB4;
+    background: #047870;
     padding: 18px 0;
     text-align: center;
     color: #fff;
     font-weight: 500;
     margin-top: 40px;
 }
+
+
+
 
 /* RESPONSIVIDADE */
 @media (max-width: 900px) {
